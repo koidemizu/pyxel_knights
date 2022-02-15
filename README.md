@@ -26,7 +26,7 @@ he game has a save/load function that allows you to save your progress.<br>
 
 ショップでの買い物やNPCとの会話などのイベントを作成しています。<br>
 I have created events such as shopping at the store and talking with NPCs.<br>
-![image4](./images/4.png)<br>
+![image4](./images/4.png)
 ![image5](./images/5.png)<br>
 <br>
 
