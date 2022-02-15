@@ -1,5 +1,8 @@
 ＃pyxel_knights
 
+![pyxel](./images/0.png)
+
+
 pyxelのバージョンによって起動スクリプトが違います。
 pyxel Ver1.5.0 以降は [main.py]
 それより前は [main_old.py] からゲームを起動できます。
